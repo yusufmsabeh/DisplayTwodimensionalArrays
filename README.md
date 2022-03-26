@@ -1,5 +1,5 @@
 # DispalyTwodimensionalArrays
-this script for display a multidimensional arrays (Two dimensional array)
+this script for displaying a multidimensional arrays (Two dimensional array)
 The output:
 mohammad 
 	physics = 35
