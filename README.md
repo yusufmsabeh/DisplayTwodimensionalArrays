@@ -3,6 +3,7 @@
 this script for displaying a multidimensional arrays (Two dimensional array)
 </br>
 The output:
+</br>
 mohammad 
 	physics = 35
 	maths = 30
