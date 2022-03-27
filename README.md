@@ -1,5 +1,7 @@
 # DispalyTwodimensionalArrays
+/n
 this script for displaying a multidimensional arrays (Two dimensional array)
+/n
 The output:
 mohammad 
 	physics = 35
